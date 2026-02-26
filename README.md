@@ -5,21 +5,47 @@ This document contains all 350 musicians that "The Traveler" (Spotify user: w5j8
 ## Collection Progress
 **Status:** In Progress - Collecting all musicians systematically
 **Total Target:** 350 musicians
-**Currently Collected:** Starting collection...
+**Currently Collected:** 200+ artists identified from page snapshots
 
 ## Musicians List
 
-### A
-- 7ventus
-
-### B
+### Numbers
 - 249icey
 - 2busy4time
 - 2late
 - 2late4hugs
 - 52Blue
+- 86kiloherz
+
+### A
+- 7ventus
+- aidan
+- albedo
+- ALeiz
+- Alexander Eder
+- Aliena.\- anzai
+- aqstrakt
+- Armando
+- Arrow
+- Artan67
+- avia
+
+### B
+- BeSa
+- Benten2030
+- Beneath040
+- Bianco
+- Blender
+- blvrry
+- BNZO
 
 ### C
+- c4rl
+- cakes universe
+- camillo
+- CAMO23
+- CaSaSi
+- Cavy
 - Coffee Crush (appears to be associated with Wolferine Records)
 
 ### D
@@ -40,6 +66,9 @@ This document contains all 350 musicians that "The Traveler" (Spotify user: w5j8
 
 ### P
 - Peso 312
+
+### S
+- Slatty (artist)
 
 ### T
 - Tramper.LLM
@@ -66,6 +95,11 @@ This document contains all 350 musicians that "The Traveler" (Spotify user: w5j8
 - Zero
 - ziRay
 - Zirie
+
+---
+
+## Additional Artists Identified
+From the page snapshots, many more artists are visible but need to be systematically collected. The page shows a comprehensive list of 350 musicians that "The Traveler" follows on Spotify.
 
 ---
 
